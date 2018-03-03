@@ -1,0 +1,23 @@
+{
+  "name": "uncommon",
+  "version": "1.0.0",
+  "description": "uncommon API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browser-sync start --server \"src\" --files \"src\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king-prawns/uncommon.git"
+  },
+  "author": "“Giorgio <“giorgio.gamberoni@gmail.com”> (“https://github.com/king-prawns”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/king-prawns/uncommon/issues"
+  },
+  "homepage": "https://github.com/king-prawns/uncommon#readme",
+  "devDependencies": {
+    "browser-sync": "2.23.6"
+  }
+}
